@@ -1,0 +1,5 @@
+region = "ap-northeast-1"
+cidr_block = "10.10.0.0/16"
+tags_name = "siri"
+cidr1_block = "10.10.1.0/24"
+tags1_name = "subnet1"
